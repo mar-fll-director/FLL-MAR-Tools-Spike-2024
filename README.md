@@ -3,4 +3,4 @@ This repo will contain updated FLL My Blocks for 2024 Gyro navigation for Spike 
 
 All the original gyro drive My Blocks have been incorporated into 1. A new presentation will get you started. [Gyro Drive My Blocks 2024 - Primer](https://docs.google.com/presentation/d/1Vga1y9exY-jyWSlCoF_mPb3-asiujL25wlZJDBCBb4c/edit?usp=sharing) will get you started.
 
-I will be updating a longer set of presentations to help COaches and kids understa the math. Actually somewhat easy. 
+I will be updating a longer set of presentations and videos to help Coaches and students understad the code and the math.
